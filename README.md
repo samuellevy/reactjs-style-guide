@@ -2,7 +2,7 @@
 
 ## Padrões
 
-Para arquivos ou pasta componentes, usar o padrão camelcase.
+Para arquivos ou pasta componentes, usar o padrão `PascalCase`.
 Ex:
 
 - ApartmentManager
